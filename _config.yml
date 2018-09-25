@@ -23,7 +23,7 @@ sass:
 # Site Data
 url: # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: /ycm/
-title: Simple Texture
+title: 中国地质大学
 description: "A gem-based responsive simple texture styled Jekyll theme."
 keywords: 'jekyll,theme,gem-based,blog'
 author:
