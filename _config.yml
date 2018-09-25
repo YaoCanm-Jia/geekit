@@ -24,7 +24,7 @@ sass:
 url: # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: /ycm/
 title: Yaocanm-Jia
-description: "I irregularlly write few things about I learnt in development."
+description: "A student in CUG."
 keywords: 'jekyll,theme,gem-based,blog'
 author:
   name:
@@ -48,8 +48,7 @@ author:
       url:
 home:
   section1: <h1>Welcome here</h1>
-  section2: <h2>A student in CUG.
-                I irregularlly write few things about I learnt in development.</h2>
+  section2: <h2>I irregularlly write few things about I learnt in development.</h2>
   section3: <div class="social-links"><a class="ico-github btn" href="https://github.com/YaoCanm-Jia" title="View on GitHub"></a></div>
 blog:
   cc_license: http://creativecommons.org/licenses/by-sa/4.0/ # A link to CC License of your choice.
