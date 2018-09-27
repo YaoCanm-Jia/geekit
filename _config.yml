@@ -22,7 +22,7 @@ sass:
 
 # Site Data
 url: # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: /ycm/
+baseurl: /yoo/
 title: Yaocanm-Jia
 description: "A student in CUG."
 keywords: 'jekyll,theme,gem-based,blog'
