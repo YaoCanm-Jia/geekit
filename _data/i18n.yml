@@ -25,7 +25,7 @@ en: &en
   show_comments: 'Show Comments'
   show_license: 'Show License'
   tags: 'Tags'
-  theme_info: '<p><small>Home <a href="https://yaocanm-jia.github.io/yoo" target="_blank">|</a> Copyright © 2018 YaoCanm. All Rights Reserved.</small></p>'
+  theme_info: '<p><small>Home<a href="https://yaocanm-jia.github.io/yoo" target="_blank">|</a> Copyright © 2018 YaoCanm. All Rights Reserved.</small></p>'
   view: 'View'
 en-us:
   <<: *en
