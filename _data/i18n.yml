@@ -25,7 +25,7 @@ en: &en
   show_comments: 'Show Comments'
   show_license: 'Show License'
   tags: 'Tags'
-  theme_info: '<p><small>Home<a href="https://yaocanm-jia.github.io/yoo" target="_blank">|</a> Copyright © 2018 YaoCanm. All Rights Reserved.</small></p>'
+  theme_info: '<p><small><a href="https://yaocanm-jia.github.io/yoo" target="_blank">Home</a> | Copyright © 2018 YaoCanm. All Rights Reserved.</small></p>'
   view: 'View'
 en-us:
   <<: *en
@@ -65,7 +65,7 @@ zh: &zh
   show_comments: '显示评论'
   show_license: '显示许可证'
   tags: '文章标签'
-  theme_info: '<p><small>博客主页 <a href="https://yaocanm-jia.github.io/yoo" target="_blank"></a>| Copyright © 2018 YaoCanm. All Rights Reserved.</small></p>'
+  theme_info: '<p><small><a href="https://yaocanm-jia.github.io/yoo" target="_blank">博客主页</a> | Copyright © 2018 YaoCanm. All Rights Reserved.</small></p>'
   view: '查阅'
 zh-cn:
   <<: *zh
