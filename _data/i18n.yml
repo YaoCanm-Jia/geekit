@@ -16,7 +16,7 @@ en: &en
   published: 'Published'
   redirecting: 'Redirecting...'
   search: 'Search'
-  search_not_found: 'Oh shucks<br/><small>Nothing found :(</small>'
+  search_not_found: 'Ohoo <br/><small>Nothing found :(</small>'
   search_placeholder: 'Search...'
   search_results: 'Search results'
   share_post: 'Share Post:'
@@ -25,7 +25,7 @@ en: &en
   show_comments: 'Show Comments'
   show_license: 'Show License'
   tags: 'Tags'
-  theme_info: '<p><small>The <a href="https://yaocanm-jia.github.io/ycm" target="_blank">blog</a> developed by <a href="https://github.com/YaoCanm-Jia" target="_blank">Yaocanm</a>, powered by Jekyll.</small></p>'
+  theme_info: '<p><small>Home <a href="https://yaocanm-jia.github.io/yoo" target="_blank"></a> | Copyright © 2018 YaoCanming. All Rights Reserved.</small></p>'
   view: 'View'
 en-us:
   <<: *en
@@ -56,7 +56,7 @@ zh: &zh
   published: '发表信息'
   redirecting: '跳转中...'
   search: '搜索'
-  search_not_found: '啊哈<br/><small>什么也没找到 :(</small>'
+  search_not_found: '略略略<br/><small>什么也没找到 :(</small>'
   search_placeholder: '搜索...'
   search_results: '搜索结果'
   share_post: '分享本文：'
@@ -65,7 +65,7 @@ zh: &zh
   show_comments: '显示评论'
   show_license: '显示许可证'
   tags: '文章标签'
-  theme_info: '<p><small>本博客主题 <a href="https://github.com/yizeng/jekyll-theme-simple-texture" target="_blank">Simple Texture</a> 由 <a href="https://yizeng.me" target="_blank">Yi Zeng</a> 基于 <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> 开发.</small></p>'
+  theme_info: '<p><small>博客主页 <a href="https://yaocanm-jia.github.io/yoo" target="_blank"></a> | Copyright © 2018 YaoCanming. All Rights Reserved.</small></p>'
   view: '查阅'
 zh-cn:
   <<: *zh
